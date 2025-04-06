@@ -17,9 +17,14 @@
         {
           "label": "Basic Dark Pink",
           "uiTheme": "vs-dark",
-          "path": "./themes/editor_text_theme.jsonc"
+          "path": "./themes/editor_text_color.json"
         }
-      ]
+      ],
+      "configurationDefaults": {
+      "editor.fontFamily": "'Consolas', '나눔고딕'",
+      "editor.fontSize": 16,
+      "editor.letterSpacing": 0.2
+    }
     }
 }
   
