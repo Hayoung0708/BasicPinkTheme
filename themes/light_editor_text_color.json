@@ -1,11 +1,5 @@
 {
-    "name": "Dark Pink Theme",
-    "type": "dark",
-    "colors": {
-      "editor.background": "#1e1e1e",
-      "editor.foreground": "#cbcbcb"
-    },
-    "tokenColors": [
+  "tokenColors": [
       {
         "scope": [""],
         "settings": {

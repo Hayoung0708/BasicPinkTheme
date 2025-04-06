@@ -1,13 +1,12 @@
 {
-    "name": "Dark Pink Theme",
-    "type": "dark",
-    "colors": {
-      "editor.background": "#1e1e1e",
-      "editor.foreground": "#cbcbcb"
-    },
     "tokenColors": [
       {
-        "scope": [""],
+        "scope": [
+          "",
+          "punctuation.definition.tag.begin.html",
+          "punctuation.definition.tag.end.html",
+          "meta.brace.square"
+        ],
         "settings": {
           "foreground": "#cbcbcb"
         }
@@ -38,6 +37,7 @@
           "variable",
           "meta.object-literal.key",
           "support.variable.property",
+          "variable.other.object.property",
           "entity.other.attribute-name.html",
           "support.type.property-name.css",
           "support.type.property-name.json",
@@ -48,7 +48,10 @@
         }
       },
       {
-        "scope": ["variable.other.constant"],
+        "scope": [
+          "variable.other.constant",
+          "variable.other.object"
+        ],
         "settings": {
           "foreground": "#ff93ab"
         }
@@ -58,8 +61,10 @@
           "storage.type",
           "storage.modifier.async",
           "keyword.operator.new",
-          "constant.language",
           "variable.language.this",
+          "constant.language.null",
+          "constant.language.boolean",
+          "constant.language.undefined",
           "punctuation.definition.template-expression.begin",
           "punctuation.definition.template-expression.end",
           "entity.name.tag.html",
@@ -69,15 +74,22 @@
           "entity.name.tag.wildcard.css",
           "punctuation.definition.entity.css",
           "entity.other.attribute-name.pseudo-class.css",
-          "heading",
-          "punctuation.definition.list.begin.markdown"
+          "heading.markdown",
+          "punctuation.definition.list.begin.markdown",
+          "constant.language.json"
         ],
         "settings": {
           "foreground": "#ec6d89"
         }
       },
       {
-        "scope": ["keyword.control.conditional"],
+        "scope": [
+          "keyword.control.conditional",
+          "keyword.control.trycatch",
+          "keyword.control.switch",
+          "keyword.control.loop",
+          "keyword.control.flow"
+        ],
         "settings": {
           "foreground": "#ae79b9"
         }
@@ -97,7 +109,8 @@
       {
         "scope": [
           "entity.name.type.class",
-          "support.class.promise"
+          "support.class",
+          "meta.var.expr new.expr entity.name.function"
         ],
         "settings": {
           "foreground": "#f1f7c1"
