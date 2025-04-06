@@ -26,7 +26,9 @@
           "constant.numeric",
           "constant.numeric.css",
           "keyword.other.unit",
-          "meta.separator"
+          "meta.separator",
+          "markup.inline.raw.string.markdown",
+          "punctuation.definition.raw.markdown"
         ],
         "settings": {
           "foreground": "#f8d8e0"
@@ -41,7 +43,9 @@
           "entity.other.attribute-name.html",
           "support.type.property-name.css",
           "support.type.property-name.json",
-          "markup.bold.markdown"
+          "markup.bold.markdown",
+          "string.other.link.description.markdown",
+          "punctuation.definition.list.begin.markdown"
         ],
         "settings": {
           "foreground": "#f5afbe"
@@ -74,8 +78,7 @@
           "entity.name.tag.wildcard.css",
           "punctuation.definition.entity.css",
           "entity.other.attribute-name.pseudo-class.css",
-          "heading.markdown",
-          "punctuation.definition.list.begin.markdown",
+          "heading",
           "constant.language.json"
         ],
         "settings": {
@@ -100,7 +103,8 @@
           "support.constant.property-value",
           "support.constant.color.w3c-extended-color-name",
           "constant.other.color.rgb-value.hex.css",
-          "meta.property-value.css"
+          "meta.property-value.css",
+          "markup.underline.link"
         ],
         "settings": {
           "foreground": "#dfbbdc"
