@@ -1,12 +1,12 @@
 {
-    "name": "dark-pink-theme",
-    "displayName": "Dark Pink Theme",
-    "description": "A basic dark theme with soft pink accents and improved readability for Korean text.",
-    "version": "1.0.2",
+    "name": "basic-pink-theme",
+    "displayName": "Basic Pink Theme",
+    "description": "A basic theme with soft pink accents and improved readability for Korean text.",
+    "version": "1.0.0",
     "publisher": "Hayoung Kang",
     "repository": {
     "type": "git",
-    "url": "https://github.com/Hayoung0708/Dark_Pink_Theme"
+    "url": "https://github.com/Hayoung0708/BasicPinkTheme"
     },
     "engines": {
       "vscode": "^1.50.0"
@@ -17,7 +17,12 @@
         {
           "label": "Basic Dark Pink",
           "uiTheme": "vs-dark",
-          "path": "./themes/editor_text_color.json"
+          "path": "./themes/dark_editor_text_color.json"
+        },
+        {
+          "label": "Basic Light Pink",
+          "uiTheme": "vs",
+          "path": "./themes/light_editor_text_color.json"
         }
       ],
       "configurationDefaults": {
