@@ -1,25 +1,21 @@
 # Basic Pink Theme
 프론트엔드 개발자를 위한 VSCode 핑크 테마
 
+<br>
 
 ## 🌸 이 테마는요..
 - VSCode의 기본 **Dark / Light 테마**를 기반으로 **소프트 핑크 톤의 텍스트 컬러**를 제공해요.
 
 - Windows 환경에서는 **한글의 가독성을 높이기 위해 '나눔 스퀘어 라운드' 폰트**가 적용돼요.
 
-## 👀 Preview
-### Before
-![image](https://github.com/user-attachments/assets/76315a2a-a854-444f-b274-0d2828999f33)
-
-### After
-![image](https://github.com/user-attachments/assets/6ba68fb1-15ca-40ab-bddf-17f9d0779750)
+## 👀 미리보기
+![image](https://github.com/user-attachments/assets/e7996641-3529-4aa8-9ef2-4b3e65aa12ae)
 
 
-## ✨ 지원 형식
+## ✨ 지원 언어
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=JSON&logoColor=white)
 
-`HTML`, `CSS`, `JavaScript`, `Markdown`, `JSON`을 중심으로 지원해요.
-
-- 추후 다양한 언어로 적용 범위를 넓혀갈 예정이에요!
+- 추후 다양한 언어로 확장 예정이에요!
 
 
 ## 💾 적용 방법
