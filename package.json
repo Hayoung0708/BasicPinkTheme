@@ -2,7 +2,7 @@
     "name": "dark-pink-theme",
     "displayName": "Dark Pink Theme",
     "description": "A basic dark theme with soft pink accents and improved readability for Korean text.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Hayoung Kang",
     "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
       "configurationDefaults": {
       "editor.fontFamily": "'Menlo', 'Monaco', 'Courier New', 'monospace', '나눔고딕'",
       "editor.fontSize": 16,
-      "editor.letterSpacing": 0.2
+      "editor.letterSpacing": 0.2,
+      "editor.bracketPairColorization.enabled": false
     }
     }
 }
