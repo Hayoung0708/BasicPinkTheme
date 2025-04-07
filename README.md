@@ -11,7 +11,10 @@
 <br>
 
 ## 👀 미리보기
-![image](https://github.com/user-attachments/assets/e7996641-3529-4aa8-9ef2-4b3e65aa12ae)
+### HTML
+![image](https://github.com/user-attachments/assets/b997442c-a461-4f1e-aca1-bc6ae620d316)
+### JavaScript
+![image](https://github.com/user-attachments/assets/b40a771a-c549-4ee5-a52b-7619ed9b2de5)
 
 <br>
 
@@ -23,21 +26,20 @@
 <br>
 
 ## 💾 적용 방법
-⭐ 오른쪽 위 ![image](https://github.com/user-attachments/assets/331e10c8-b07c-4a91-b4e3-7816aa1694a1) 누르기 ⭐
-1. [여기](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.0.2.vsix)를 눌러 `.vsix` 파일 다운로드
+1. [최신 버전 다운로드](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.0.2.vsix)를 눌러 `.vsix` 파일 다운로드
 2. VSCode를 열고, 좌측 사이드바에서 `Extensions(확장)` 아이콘 클릭
 3. 오른쪽 상단 `...` 클릭 → `Install from VSIX...(VSIX에서 설치...)` 선택
 4. 다운로드한 `.vsix` 파일을 선택하여 설치
 5. 설치 후 `Extensions(확장)` → `Set Color Theme(색 테마 설정)`에서 원하는 테마 적용
    - Basic Dark Pink
    - Basic Light Pink
+- 한글 폰트를 적용하려면 [나눔스퀘어라운드 다운로드](https://hangeul.naver.com/hangeul_static/webfont/zips/nanum-square-round.zip)를 눌러 폰트를 다운로드하고, `NanumSquareRoundR` 폰트를 설치해주세요.
 
 <br>
 
 ## 💡 참고
-- 한글 폰트를 적용하려면 [여기](https://hangeul.naver.com/fonts/search?f=nanum)에서 `나눔스퀘어라운드`를 다운로드하고, `NanumSquareRoundR` 폰트를 설치해주세요.
 - 다른 폰트를 선호한다면 VSCode의 `settings.json`에서 직접 변경해주세요.
 
 <br>
 
-### **특정 텍스트에 색상이 적용되지 않거나, 문제가 있다면** 언제든지 Issues 탭에 남겨주세요 :)
+### ⭐ 테마가 마음에 드신다면 레포지토리 오른쪽 위에 있는 ![image](https://github.com/user-attachments/assets/331e10c8-b07c-4a91-b4e3-7816aa1694a1)를 눌러주세요. ⭐
