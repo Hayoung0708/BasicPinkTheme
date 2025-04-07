@@ -91,7 +91,9 @@
           "keyword.control.trycatch",
           "keyword.control.switch",
           "keyword.control.loop",
-          "keyword.control.flow"
+          "keyword.control.flow",
+          "punctuation.definition.keyword",
+          "keyword.control.at-rule"
         ],
         "settings": {
           "foreground": "#ae79b9"
